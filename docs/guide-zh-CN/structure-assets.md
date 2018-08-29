@@ -56,7 +56,7 @@ class AppAsset extends AssetBundle
 关于[[yii\web\AssetBundle]] 的属性的更多详细如下所述：
 
 * [[yii\web\AssetBundle::sourcePath|sourcePath]]: 指定包包含资源文件的根目录，
-  当根目录不能被Web访问时该属性应设置，否则，应设置
+  当根目录不能被Web访问时（该属性）？？？什么属性？应设置，否则，应设置
   [[yii\web\AssetBundle::basePath|basePath]] 属性和[[yii\web\AssetBundle::baseUrl|baseUrl]]。
   [路径别名](concept-aliases.md) 可在此处使用；
 * [[yii\web\AssetBundle::basePath|basePath]]: 指定包含资源包中资源文件并可Web访问的目录，
